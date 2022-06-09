@@ -1,5 +1,3 @@
-import javax.sound.midi.SysexMessage;
-
 class Box{
     private double width;
     private double height;
