@@ -49,8 +49,5 @@ public class Exp9 {
         System.out.println(isRef.pop());
         System.out.println(istRef.pop());
         System.out.println(objRef.getClass());
-
-
-
     }
 }
